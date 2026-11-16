@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Hitboxes",
     "records": [
+         {
+            "user": "KINGMAST3R2O1O",
+            "link": "https://youtu.be/BkbU_QQ4jA4",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
