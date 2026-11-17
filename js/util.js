@@ -11,8 +11,7 @@
   --shadow: 0 3px 12px rgba(0,0,0,.10);
 }
 * { box-sizing: border-box; }
-body { margin: 0; background: var(--bg); color: var(--text); font-family: "Nunito Sans", Arial, sans-serif; font-weight: 700; }
-body.dark { --bg:#111318; --panel:#191d25; --text:#f5f6fa; --muted:#a5adbb; --line:#303642; --soft:#232936; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: "Nunito Sans", Arial, sans-serif; font-weight: 700; }body.dark { --bg:#111318; --panel:#191d25; --text:#f5f6fa; --muted:#a5adbb; --line:#303642; --soft:#232936; }
 button { cursor: pointer; }
 
 .topbar { height: 76px; background: var(--blue); color: white; display:flex; align-items:center; padding:0 max(24px, calc((100vw - 1440px)/2)); gap:42px; position:sticky; top:0; z-index:5; }
