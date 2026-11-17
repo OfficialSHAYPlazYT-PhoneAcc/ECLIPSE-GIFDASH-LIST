@@ -1,4 +1,4 @@
-{@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap');
 
 :root {
   --blue: #0862f5;
@@ -8,8 +8,8 @@
   --muted: #6c7280;
   --line: #e5e7eb;
   --soft: #f3f5f8;
-  --shadow: 0 3px 12px rgba(0,0,0,.10);+}
-
+  --shadow: 0 3px 12px rgba(0,0,0,.10);+
+}
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--text); font-family: "Nunito Sans", Arial, sans-serif; font-weight: 700; }
 body.dark { --bg:#111318; --panel:#191d25; --text:#f5f6fa; --muted:#a5adbb; --line:#303642; --soft:#232936; }
