@@ -26,8 +26,7 @@ button { cursor: pointer; }
 .icon-button { color:white; background:transparent; border:0; font-size:28px; }
 .submit-button { background:white; color:var(--blue); border:0; border-radius:11px; padding:13px 20px; font-size:17px; font-weight:900; box-shadow:var(--shadow); }
 
-.layout { display: grid; grid-template-columns: 300px minmax(420px, 1fr) 300px; min-height: calc(100vh - 76px); max-width: 1440px; margin: 0 auto; }
-.level-sidebar { border-right:1px solid var(--line); padding:28px 14px; }
+.layout { display: grid; grid-template-columns: 300px 1fr; min-height: calc(100vh - 76px); max-width: 1440px; margin: 0 auto; }.level-sidebar { border-right:1px solid var(--line); padding:28px 14px; }
 .sidebar-title { color:var(--muted); font-size:12px; letter-spacing:1.5px; margin:0 0 16px 8px; }
 .level-button { width:100%; display:flex; align-items:center; gap:18px; text-align:left; background:transparent; border:0; border-radius:10px; padding:12px 10px; color:var(--text); font-size:18px; font-weight:900; margin-bottom:3px; }
 .level-button .rank { min-width:26px; }
